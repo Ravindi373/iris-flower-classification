@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-A machine learning pipeline built with **scikit-learn** to classify Iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — based on sepal and petal measurements.
+A machine learning pipeline built with **scikit-learn** to classify Iris flowers into three species (*Setosa*, *Versicolor*, and *Virginica*) based on sepal and petal measurements.
 
 ## Objective
 
