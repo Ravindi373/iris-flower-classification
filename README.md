@@ -18,7 +18,7 @@ Classify Iris flowers into 3 species based on 4 measurements, using and comparin
 | `PetalWidthCm` | Width of the petal (cm) |
 | `Species` | Target label — Iris-setosa / Iris-versicolor / Iris-virginica |
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 - Pairplot, correlation heatmap, and boxplots by species to visualize feature separation
 - **Petal measurements separate the species far better than sepal measurements**
