@@ -4,7 +4,7 @@ A machine learning pipeline built with **scikit-learn** to classify Iris flowers
 
 ## Objective
 
-Classify Iris flowers into 3 species based on 4 measurements, using and comparing multiple ML models wrapped in a clean `scikit-learn` Pipeline (no data leakage, easy to deploy).
+Classify Iris flowers into 3 species based on 4 measurements, using and comparing multiple ML models wrapped in a clean `scikit-learn` Pipeline.
 
 ##  Dataset
 
